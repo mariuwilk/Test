@@ -12,7 +12,7 @@ int main()
     cin >> x;
     cout << "Typed: " << x << endl;
     cout << " It's time to say goodbye..." << endl;
-	cin >> x;
+    cin >> x;
     return 0;
 }
 
