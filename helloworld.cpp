@@ -11,6 +11,7 @@ int main()
     char x;
     cin >> x;
     cout << "Typed: " << x << endl;
+    cout << " It's time to say goodbye..." << endl;
     return 0;
 }
 
